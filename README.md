@@ -1,5 +1,5 @@
 # EDA-on-SampleSuperstore-dataset
-<img width="1478" src='https://storage.googleapis.com/kaggle-datasets-images/2532455/4298033/5a4bea651e4da113c63546a56307ca80/dataset-cover.jpg?t=2022-10-08-11-50-27'>
+<img width="1478" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5v5eAfO8BbpGDOxhV68khycM_2J4sz6FOIuPC6Db4QRmgbOX2TyRJ3uxq256q4elVPlA&usqp=CAU'>
 
 'Sales Analysis' has been made on a sample data with Pandas, Matplotlib and Seaborn library By using Vs-Code over Anaconda
 # About Dataset
